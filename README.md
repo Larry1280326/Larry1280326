@@ -4,7 +4,6 @@ Welcome to my personal space! I’m passionate about **machine learning** and **
 
 ## 🚀 Quick Links
 
-- **Personal Website:** [larry1280326.github.io](https://larry1280326.github.io/)
 - **Personal Page:** [View Here](https://larry1280326.github.io/)
 - **HKUST Bus Tracker:** [Try It Out](https://larry1280326.github.io/hkust-kmb)
 
